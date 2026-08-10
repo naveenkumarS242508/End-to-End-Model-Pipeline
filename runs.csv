@@ -1,5 +1,0 @@
-run_id,seed,n_rows,auc,accuracy,f1,decision,version,reason
-run-20260810-144114,9,700,0.8793,0.8,0.7727,promote,1,clears threshold and beats champion
-run-20260810-144114,9,0,,,,blocked,,"avg_vibration out of range [0, 20]; shift has unexpected values: ['twilight']"
-run-20260810-144114,9,1500,0.8589,0.7733,0.7236,reject,2,AUC 0.8589 does not beat champion 0.8793
-run-20260810-144114,9,1500,0.8808,0.8033,0.7774,promote,3,clears threshold and beats champion
